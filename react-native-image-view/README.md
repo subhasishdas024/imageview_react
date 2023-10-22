@@ -10,4 +10,6 @@ npm install --save react-native-image-view
 </p>
 
 -> Optimize performance with libraries like react-native-fast-image for efficient image loading and caching.
+
+
 ->  Enable pinch-to-zoom and image-swiping with libraries like react-native-gesture-handler.
