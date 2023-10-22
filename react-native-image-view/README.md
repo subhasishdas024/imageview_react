@@ -2,7 +2,7 @@
 
 yarn add react-native-image-view 
 
-or
+or else
 
 npm install --save react-native-image-view
 
