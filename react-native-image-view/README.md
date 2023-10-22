@@ -1,14 +1,8 @@
-## Installation
+## Installation :
 
-```bash
 yarn add react-native-image-view
-```
-
 or
-
-```bash
 npm install --save react-native-image-view
-```
 
 ## Demo
 
