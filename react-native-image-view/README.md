@@ -1,6 +1,9 @@
 ## Installation :
 
-yarn add react-native-image-view or
+yarn add react-native-image-view 
+
+or
+
 npm install --save react-native-image-view
 
 ## Demo
