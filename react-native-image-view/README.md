@@ -1,4 +1,4 @@
-## Installation :
+## Install :
 
 yarn add react-native-image-view 
 
